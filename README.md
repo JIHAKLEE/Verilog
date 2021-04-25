@@ -1,2 +1,0 @@
-### Verilog
-#Logic circuit design
